@@ -8,7 +8,6 @@
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
         "node-red": "~1.x",
-        "node-red-node-twitter": "~1.x",
-        "node-red-contrib-telegrambot": "~9.x"
+        "node-red-node-twitter": "~1.x"
     }
 }
